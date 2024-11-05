@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Transliterated Arabic: How to write in Franco / Arabizi / Arabish",
   description: "A guide to transliterating Arabic using the Latin script and numbers.",
+  keywords: "Franco-Arabic, Arabizi, Arabish, Arabeezi, Arabic chat alphabet, transliteration, Latin script, Arabic, communication, online, informal, dialects, chat, text, SMS, social media, internet, keyboard, writing, guide, examples, learn, tutorial", 
 };
 
 export default function RootLayout({
