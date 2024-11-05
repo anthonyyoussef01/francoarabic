@@ -9,7 +9,7 @@ export default function Home() {
         </h1>
         <p className="mt-6 text-lg leading-8 text-gray-500">
           Franco-Arabic, also known as Franco, Arabizi, Arabish, Arabeezi, or the Arabic chat alphabet, is a way of writing Arabic using the Latin script and numbers. 
-          It's widely used in informal online communication, especially among young people in the Arab world. 
+          It&apos;s widely used in informal online communication, especially among young people in the Arab world. 
         </p>
       </div>
 
@@ -24,10 +24,10 @@ export default function Home() {
         </p>
         <ul className="mt-4 list-disc list-inside text-lg leading-8 text-gray-500">
           <li><strong>Numbers replace certain Arabic letters: </strong> 
-            As we will see, this is a core aspect of Franco-Arabic. For example, '3' represents the Arabic letter 'ع' (ayn), '7' represents 'ح' (haa), and '2' represents 'ء' (hamza).
+            As we will see, this is a core aspect of Franco-Arabic. For example, &apos;3&apos; represents the Arabic letter &apos;ع&apos; (ayn), &apos;7&apos; represents &apos;ح&apos; (haa), and &apos;2&apos; represents &apos;ء&apos; (hamza).
           </li>
           <li><strong>Vowels are often omitted: </strong> 
-            Readers infer the vowels based on context, similar to how vowels are sometimes omitted in written Arabic. This can lead to ambiguity, but it's generally understood within the context of the conversation.
+            Readers infer the vowels based on context, similar to how vowels are sometimes omitted in written Arabic. This can lead to ambiguity, but it&apos;s generally understood within the context of the conversation.
           </li>
           <li><strong>Words can be written phonetically: </strong> 
             The way words sound is often prioritized over standard Arabic spelling. This means that there can be multiple ways to write the same word in Franco-Arabic.
@@ -72,7 +72,7 @@ export default function Home() {
             </tr>
             <tr>
               <td className="px-4 py-2 text-gray-500">خ (khaa)</td>
-              <td className="px-4 py-2 text-gray-500">kh / 5 / 7'</td>
+              <td className="px-4 py-2 text-gray-500">kh / 5 / 7&apos;</td>
             </tr>
             <tr>
               <td className="px-4 py-2 text-gray-500">د (daal)</td>
@@ -104,7 +104,7 @@ export default function Home() {
             </tr>
             <tr>
               <td className="px-4 py-2 text-gray-500">ض (daad)</td>
-              <td className="px-4 py-2 text-gray-500">d / 9'</td>
+              <td className="px-4 py-2 text-gray-500">d / 9&apos;</td>
             </tr>
             <tr>
               <td className="px-4 py-2 text-gray-500">ط (taa)</td>
@@ -120,7 +120,7 @@ export default function Home() {
             </tr>
             <tr>
               <td className="px-4 py-2 text-gray-500">غ (ghayn)</td>
-              <td className="px-4 py-2 text-gray-500">gh / 3'</td>
+              <td className="px-4 py-2 text-gray-500">gh / 3&apos;</td>
             </tr>
             <tr>
               <td className="px-4 py-2 text-gray-500">ف (faa)</td>
@@ -161,7 +161,7 @@ export default function Home() {
           </tbody>
         </table>
         <p className="mt-4 text-lg leading-8 text-gray-500">
-          It's important to remember that Franco-Arabic is a fluid and evolving system of writing. 
+          It&apos;s important to remember that Franco-Arabic is a fluid and evolving system of writing. 
           Variations exist depending on regional and personal preferences. 
           While the table above provides a general guide, there might be slight differences in how certain letters are represented. 
           The key is to be flexible and adapt to the context in which you encounter it.
@@ -193,7 +193,7 @@ export default function Home() {
             <tr className="text-gray-500">
               <td className="px-4 py-2 border border-gray-700">أنا بخير، شكرا</td>
               <td className="px-4 py-2 border border-gray-700">Ana bkheir, shukran</td>
-              <td className="px-4 py-2 border border-gray-700">I'm fine, thank you</td>
+              <td className="px-4 py-2 border border-gray-700">I&apos;m fine, thank you</td>
             </tr>
             <tr className="text-gray-500">
               <td className="px-4 py-2 border border-gray-700">مع السلامة</td>
@@ -230,7 +230,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold tracking-tight text-gray-300">Cultural Significance</h2>
         <p className="mt-4 text-lg leading-8 text-gray-500">
           Franco-Arabic is more than just a writing system; it reflects a unique blend of cultures and languages. 
-          It's a symbol of the digital age and the evolving ways people communicate in a globalized world. 
+          It&apos;s a symbol of the digital age and the evolving ways people communicate in a globalized world. 
           While some may view it as a threat to the Arabic language, others see it as a creative and dynamic form 
           of expression that connects people across borders.
         </p>
