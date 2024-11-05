@@ -246,10 +246,12 @@ export default function Home() {
             href="https://www.qamous.org/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-orange-500 hover:underline hover:text-orange-400 transition-colors duration-300"
+            className="text-orange-500 relative group transition-colors duration-300 hover:text-orange-400"
           >
             qamous.org
+            <span className="absolute inset-x-0 bottom-0 h-0.5 bg-orange-500 scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300"></span>
           </a>
+
         </p>
       </div>
     </main>
