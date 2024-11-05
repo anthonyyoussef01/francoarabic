@@ -235,6 +235,23 @@ export default function Home() {
           of expression that connects people across borders.
         </p>
       </div>
+
+      <div className="mt-12 max-w-5xl w-full">
+        <h2 className="text-3xl font-bold tracking-tight text-gray-300">
+          Want to Learn More?
+        </h2>
+        <p className="mt-4 text-lg leading-8 text-gray-500">
+          Explore Arabic words, meanings, dialects, and more at&nbsp;
+          <a
+            href="https://www.qamous.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-orange-500 hover:underline hover:text-orange-400 transition-colors duration-300"
+          >
+            qamous.org
+          </a>
+        </p>
+      </div>
     </main>
   );
 }
